@@ -1,0 +1,23 @@
+[
+ {
+   "id":  1 ,
+   "title": "Car1",
+   "description" :  "Lorem" ,
+   "price" :  "Lorem" ,
+   "pictureUrl" :  "https://www.multipoint.com.ar/Image/0/1500_1500-a124.jpg" 
+ },
+ {
+    "id":  2 ,
+    "title": "Car2",
+    "description" :  "Lorem" ,
+    "price" :  "120" ,
+    "pictureUrl" :  "https://www.multipoint.com.ar/Image/0/1500_1500-a124.jpg" 
+  },
+  {
+    "id":  3 ,
+    "title": "Car3",
+    "description" :  "Lorem" ,
+    "price" :  "categoria3" ,
+    "pictureUrl" :  "https://www.multipoint.com.ar/Image/0/1500_1500-a124.jpg" 
+  }
+]
